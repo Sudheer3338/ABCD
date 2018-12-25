@@ -1,1 +1,2 @@
-branch1 FILE ONE
+branch1 FILE ONE. 
+modified in branch1
